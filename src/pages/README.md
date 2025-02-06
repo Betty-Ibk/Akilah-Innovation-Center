@@ -32,4 +32,5 @@ Akilah Innovation Center is a non-profit organization dedicated to providing stu
 ## Mission
 Akilah Innovation Center aims to break down barriers to education and provide equal opportunities for all students, regardless of their financial background. Through free educational resources, mentorship, and community support, we strive to inspire and equip the next generation of leaders.
 
-
+## Link to Run the WebPage: 
+https://akilah-innovation-center.vercel.app/
